@@ -1,0 +1,16 @@
+Texto formateado:
+la inteligencia artificial ia es un campo de estudio que abarca desde la simulación del razonamiento humano hasta la creación de máquinas que pueden aprender y tomar decisiones a lo largo de los años la ia ha avanzado significativamente transformando industrias como la medicina el transporte y la educación
+
+el aprendizaje automático una rama de la ia permite que las computadoras desarrollen habilidades sin estar explícitamente programadas para ello en lugar de seguir instrucciones específicas las máquinas pueden analizar grandes cantidades de datos y detectar patrones para mejorar su rendimiento
+
+sin embargo con estos avances también surgen preocupaciones la ética en la inteligencia artificial es un tema que se discute ampliamente ya que las decisiones automatizadas pueden afectar la privacidad y los derechos de las personas a medida que la ia continúa desarrollándose es fundamental establecer regulaciones y principios éticos que guíen su implementación
+
+por otro lado el impacto positivo de la ia es innegable desde diagnósticos médicos más rápidos y precisos hasta vehículos autónomos que prometen reducir los accidentes de tránsito las aplicaciones de la ia son diversas y están en constante expansión en el futuro se espera que la inteligencia artificial siga revolucionando la manera en que vivimos y trabajamos brindando soluciones a problemas complejos que hasta hace poco parecían imposibles de resolver
+Tokens:
+la, inteligencia, artificial, ia, es, un, campo, de, estudio, que, abarca, desde, la, simulación, del, razonamiento, humano, hasta, la, creación, de, máquinas, que, pueden, aprender, y, tomar, decisiones, a, lo, largo, de, los, años, la, ia, ha, avanzado, significativamente, transformando, industrias, como, la, medicina, el, transporte, y, la, educación
+
+el, aprendizaje, automático, una, rama, de, la, ia, permite, que, las, computadoras, desarrollen, habilidades, sin, estar, explícitamente, programadas, para, ello, en, lugar, de, seguir, instrucciones, específicas, las, máquinas, pueden, analizar, grandes, cantidades, de, datos, y, detectar, patrones, para, mejorar, su, rendimiento
+
+sin, embargo, con, estos, avances, también, surgen, preocupaciones, la, ética, en, la, inteligencia, artificial, es, un, tema, que, se, discute, ampliamente, ya, que, las, decisiones, automatizadas, pueden, afectar, la, privacidad, y, los, derechos, de, las, personas, a, medida, que, la, ia, continúa, desarrollándose, es, fundamental, establecer, regulaciones, y, principios, éticos, que, guíen, su, implementación
+
+por, otro, lado, el, impacto, positivo, de, la, ia, es, innegable, desde, diagnósticos, médicos, más, rápidos, y, precisos, hasta, vehículos, autónomos, que, prometen, reducir, los, accidentes, de, tránsito, las, aplicaciones, de, la, ia, son, diversas, y, están, en, constante, expansión, en, el, futuro, se, espera, que, la, inteligencia, artificial, siga, revolucionando, la, manera, en, que, vivimos, y, trabajamos, brindando, soluciones, a, problemas, complejos, que, hasta, hace, poco, parecían, imposibles, de, resolver
