@@ -11,9 +11,10 @@ def main_flow():
     search_queries = ["mouse verticale", "hyperx"]
     for query in search_queries:
         products = task_extract_products(query)
+        # print (products)
 
         # Obtener el resultado de la tarea
-        products_result = products.result()  # Esto se necesita para obtener los resultados
+        products_result = products  # Esto se necesita para obtener los resultados
 
         # Decidir si se realiza una carga inicial o una actualización
         if TYPE_TASK == "baseline":
